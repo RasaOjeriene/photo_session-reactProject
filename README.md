@@ -1,5 +1,5 @@
 
-## This repository is photo session choose
+## This repository is project you can choose a photo shoot
 ---
 
 - Changing the HTML

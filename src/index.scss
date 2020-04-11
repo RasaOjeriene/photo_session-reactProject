@@ -1,0 +1,17 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+$mainBack: linear-gradient(0.72turn, #33678A, #78A6C9, #EAEFF3);
+$mainBlue: rgb(15, 29, 48);
+$mainWhite:#fff;
+
+
+body{
+    background: $mainWhite;
+    color: $mainBack;
+    font-family: 'Cormorant Infant', serif;
+}

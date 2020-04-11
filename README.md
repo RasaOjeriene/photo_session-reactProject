@@ -1,12 +1,12 @@
 
-##This repository is photo session choose
+## This repository is photo session choose
 ---
 
--Changing the HTML
--Adding Images, Fonts and Files
--Folder structure
--Used SASS
--Importing a Component
+- Changing the HTML
+- Adding Images, Fonts and Files
+- Folder structure
+- Used SASS
+- Importing a Component
 
 ---
 

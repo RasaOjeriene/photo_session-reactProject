@@ -1,5 +1,5 @@
 
-
+##This repository is photo session choose
 ---
 
 -Changing the HTML
@@ -7,6 +7,7 @@
 -Folder structure
 -Used SASS
 -Importing a Component
+
 ---
 
 

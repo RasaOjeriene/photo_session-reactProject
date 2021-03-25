@@ -9,7 +9,8 @@
 - Importing a Component
 
 ---
-
+## Screenshot
+![Screenshot](https://user-images.githubusercontent.com/52051506/112481832-173aec80-8d80-11eb-9706-c8a4d7b526bf.png")
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

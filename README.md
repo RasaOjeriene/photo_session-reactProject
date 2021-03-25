@@ -10,7 +10,9 @@
 
 ---
 ## Screenshot
-![Screenshot](https://user-images.githubusercontent.com/52051506/112481832-173aec80-8d80-11eb-9706-c8a4d7b526bf.png")
+![Screenshot 2021-03-25 at 15 36 52](https://user-images.githubusercontent.com/52051506/112482571-e313fb80-8d80-11eb-872a-8a5ad8d5b93b.jpg)
+
+---
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
